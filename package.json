@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tallycue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tally color cue values and contrast-safe presentation helpers.",
+  "bin": {
+    "tallycue": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tallycue.git"
+  },
+  "homepage": "https://theworker02.github.io/tallycue/",
+  "keywords": [
+    "tally",
+    "cue",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
